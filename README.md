@@ -12,3 +12,7 @@
 - [x] remove run.exe so ctrl+r doesnt work (if possible show a message instead) (cmd for running `c:\windows\system32\rundll32.exe shell32.dll,#61`)
 - [x] remove taskmgr.exe
 - [x] remove cmd.exe
+## ✅ Client 
+- [ ] Fix sending and recieving command problem (probably firewall blocking the requests)
+- [ ] Encrypt Connecton 
+- [x] Fuzz Executable so no reverse engineering
