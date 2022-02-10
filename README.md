@@ -3,8 +3,9 @@
 - [x] make sure to disable window borders (maximize minimze exit)
 - [x] overide alt f4
 - [x] fullscreen by default
+- [x] disable cursor
 - [ ] launch again if closed by third party program
-- [ ] disable cursor
+
 
 ## ✅ make deface initiator with rust ([deleter](https://github.com/PoggerPussy/deleter))
 - [x] remove explorer.exe so no gui is shown on startup
